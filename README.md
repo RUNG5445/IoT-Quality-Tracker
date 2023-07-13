@@ -1,6 +1,5 @@
 # Quality tracking System with IoT and FTP Integration
 
-This project uses T-sim7600g-h 4G LTE Cat4 Module and ESP32-WROVER-B WiFi module to read humidity and temperature values from a sensor. It retrieves location data based on the cell ID via an API. The collected information is logged and sent to an FTP server for storage and analysis.
 
 ## Introduction
 
